@@ -51,7 +51,7 @@
 
 
 
-📫 How to reach me: **anishpandey021@gmail.com**
+📫 How to reach me: **sarojpandey235@gmail.com**
 
 <br />
 <!-- Contact Se ction -->
