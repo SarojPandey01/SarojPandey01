@@ -1,7 +1,7 @@
 ![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Saroj+Pandey;Welcome+to+my+Github+profile;)
 
 <!-- Hero Section -->
-<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=anishrajpandey&theme=react-dark" alt="anishrajpandey's github activity graph" />
+<p align="center"><img src="https://raw.githubusercontent.com/royrustdev/royrustdev/main/assets/img/programming1.webp" alt="A software engineer is writing code" width="700" /><img src="https://activity-graph.herokuapp.com/graph?username=SarojPandey01&theme=react-dark" alt="SarojPandey01's github activity graph" />
   
 <!--    FOR SNAKE GAME-->
   
@@ -11,7 +11,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=SarojPandey01&label=Github%20Profile%20Views&color=blueviolet&style=flat-square" alt="royrustdev" />
 <a href="https://twitter.com/sarojpandey" target="_blank">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/anishrajpandey?color=blue&logo=Twitter&style=flat-square">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SarojPandey01?color=blue&logo=Twitter&style=flat-square">
 </a>
 
 </p>
